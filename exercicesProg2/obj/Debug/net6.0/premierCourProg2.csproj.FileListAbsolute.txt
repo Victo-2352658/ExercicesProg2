@@ -1,0 +1,14 @@
+C:\Users\Sabrina\Documents\premierCourProg2\bin\Debug\net6.0\premierCourProg2.exe
+C:\Users\Sabrina\Documents\premierCourProg2\bin\Debug\net6.0\premierCourProg2.deps.json
+C:\Users\Sabrina\Documents\premierCourProg2\bin\Debug\net6.0\premierCourProg2.runtimeconfig.json
+C:\Users\Sabrina\Documents\premierCourProg2\bin\Debug\net6.0\premierCourProg2.dll
+C:\Users\Sabrina\Documents\premierCourProg2\bin\Debug\net6.0\premierCourProg2.pdb
+C:\Users\Sabrina\Documents\premierCourProg2\obj\Debug\net6.0\premierCourProg2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sabrina\Documents\premierCourProg2\obj\Debug\net6.0\premierCourProg2.AssemblyInfoInputs.cache
+C:\Users\Sabrina\Documents\premierCourProg2\obj\Debug\net6.0\premierCourProg2.AssemblyInfo.cs
+C:\Users\Sabrina\Documents\premierCourProg2\obj\Debug\net6.0\premierCourProg2.csproj.CoreCompileInputs.cache
+C:\Users\Sabrina\Documents\premierCourProg2\obj\Debug\net6.0\premierCourProg2.dll
+C:\Users\Sabrina\Documents\premierCourProg2\obj\Debug\net6.0\refint\premierCourProg2.dll
+C:\Users\Sabrina\Documents\premierCourProg2\obj\Debug\net6.0\premierCourProg2.pdb
+C:\Users\Sabrina\Documents\premierCourProg2\obj\Debug\net6.0\premierCourProg2.genruntimeconfig.cache
+C:\Users\Sabrina\Documents\premierCourProg2\obj\Debug\net6.0\ref\premierCourProg2.dll
